@@ -2377,7 +2377,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #C0B283;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2675,7 +2675,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #DCD0C0;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2726,7 +2726,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #C0B283;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2747,7 +2747,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #C0B283;
 				}
 
 		#header > nav {
@@ -2764,7 +2764,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #C0B283;
 					display: block;
 					padding: 0;
 				}
@@ -2783,7 +2783,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #ffb79d !important;
 						}
 
 					#header > nav ul li:first-child {
